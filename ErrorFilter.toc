@@ -1,0 +1,5 @@
+## Interface: 11100
+## Title: ErrorFilter
+## Notes: Filters out all or selected error messages. e.g. "Not enough rage"
+## SavedVariables: ErrorFilter_Enabled, ErrorFilter_FilterAll, ErrorFilter_Filters
+ErrorFilter.xml
